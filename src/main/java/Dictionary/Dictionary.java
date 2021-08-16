@@ -1,4 +1,4 @@
-package com.company;
+package main.java.Dictionary;
 
 public interface Dictionary {
 

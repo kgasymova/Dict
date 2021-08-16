@@ -1,4 +1,6 @@
-package com.company;
+package main.java.Menu;
+
+import main.java.Dictionary.Dictionary;
 
 import java.util.Scanner;
 
@@ -19,7 +21,7 @@ public class Menu {
     Dictionary dictionary;
 
 
-    Menu(Dictionary dictionary) {
+    public Menu(Dictionary dictionary) {
         this.dictionary = dictionary;
     }
 

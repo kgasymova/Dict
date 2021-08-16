@@ -1,4 +1,6 @@
-package com.company;
+package main.java.Dictionary;
+
+import main.java.Dictionary.Dictionary;
 
 import java.util.ArrayList;
 import java.util.HashMap;
